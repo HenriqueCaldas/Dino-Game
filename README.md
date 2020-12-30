@@ -8,7 +8,7 @@ Tabela de conteúdos
    * [Tabela de Conteúdo](#tabela-de-conteudo)
    * [Status do Projeto](#status)
    * [Demostracão da Aplicação](#demostracao)
-   * [Como jogar(#como-jogar)
+   * [Como jogar](#como-jogar)
       * [Pré Requisitos](#pre-requisitos)
    * [Tecnologias](#tecnologias)
    * [Autor](#autor)
